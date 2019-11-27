@@ -15,4 +15,4 @@ To do so, go to [your Spotify for Developers Dashboard](https://beta.developer.s
 
 Once you have created your app, replace the `client_id`, `redirect_uri` and `client_secret` in the examples with the ones you get from My Applications.
 
-
+Finally, start the server, and point your friends to it. Every user has to have their own Spotify client running. Once this is done, any connected user can play a Spotify track through its URI link and it will be streamed to each client.
