@@ -1,4 +1,4 @@
-Simple app to control multiple Spotify clients from a single server. Use is to listen to music with your friends over the internet!
+Simple app to control multiple Spotify clients from a single server. Use is to listen to music with your friends over the internet! Work in progress.
 
 ## Installation
 
